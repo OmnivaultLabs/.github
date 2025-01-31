@@ -1,6 +1,6 @@
 ![Banner](./banner/banner.png)
 
-Welcome to PersonalTeams! We are a collaborative group of students and friends dedicated to developing innovative open source and personal projects. Our mission is to create impactful software solutions while learning and growing together as a community.
+Welcome to Omnivault! We are a collaborative group of students and friends dedicated to developing innovative open source and personal projects. Our mission is to create impactful software solutions while learning and growing together as a community.
 
 <!-- ## Get Involved
 
@@ -14,7 +14,7 @@ Right now, our open communities are building amazing software together, and ther
 
 ----
 
-<!-- PersonalTeams projects adopt the [PersonalTeams Open Source Code of Conduct](https://personalteams.com/codeofconduct). For more information, see the [Code of Conduct FAQ](https://personalteams.com/codeofconduct/faq/). -->
+<!-- Omnivault projects adopt the [PersonalTeams Open Source Code of Conduct](https://personalteams.com/codeofconduct). For more information, see the [Code of Conduct FAQ](https://personalteams.com/codeofconduct/faq/). -->
 
 ## Contact Us
 
